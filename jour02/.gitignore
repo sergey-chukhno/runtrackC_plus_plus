@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.log
+*.tmp
